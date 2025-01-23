@@ -1,4 +1,3 @@
-"id","term","explanation"
-"195967001","Asthmaa","Disorder of respiratory system (disorder)"
-"389145006","Allergic asthma","Asthma (disorder)"
-"38911234005","Another asthma","Asthma (disorder)"
+source,target,context,developer_comments
+"Allergy to honey bee venom","Allergy to honey bee venom",16224591000119103,"http://snomed.info/id/16224591000119103 - Allergy to honey bee venom (finding)"
+"Allergy to yellow jacket venom","Allergy to yellow jacket venom",16224471000119103,"http://snomed.info/id/16224471000119103 - Allergy to yellow jacket venom (finding)"
